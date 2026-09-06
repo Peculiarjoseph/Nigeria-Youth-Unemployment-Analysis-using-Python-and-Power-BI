@@ -69,13 +69,15 @@ v. The final regression model explained approximately 63.8% of the variation in 
 
 The Power BI dashboard provides an interactive overview of youth unemployment and key economic and development indicators in Nigeria.
 
-Dashboard features include:
+Dashboard features include:  
 KPI cards for key indicators  
 Year-over-Year comparisons  
 Youth unemployment trend analysis  
 Economic and social indicator trends
 
-<img width="978" height="551" alt="projectimage2" src="https://github.com/user-attachments/assets/6037b059-79ce-4b5a-b01c-9e40b1588aae" />
+<img width="980" height="545" alt="Youth_Unemployment_Analysis" src="https://github.com/user-attachments/assets/c63cc14d-1f17-497a-9c78-18a1c00e5713" />
+
+
 
 
 ## Analytical Workflow
