@@ -25,7 +25,7 @@ The analysis combines:
 
 What economic and social indicators are associated with youth unemployment in Nigeria?  
 
-The project investigates the relationship between youth unemployment and:
+The project investigates the relationship between youth unemployment and:  
 GDP Growth  
 Inflation  
 Foreign Direct Investment (FDI)  
